@@ -12,7 +12,7 @@ public class Greeter {
 
   }
 
- /**
+  /**
    * This is a method.
    */
   public final String greet(final String someone) {
